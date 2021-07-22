@@ -1,5 +1,6 @@
 # PGTS
-![poster](https://user-images.githubusercontent.com/17973726/124763780-3e32be00-df2c-11eb-8da3-93d328635eed.png)
+![posterv003](https://user-images.githubusercontent.com/17973726/126660151-6fc03a5d-2070-4faf-b0fa-a9cc184f2538.png)
+
 
 # Website
 https://prettygoodtokensniper.com
