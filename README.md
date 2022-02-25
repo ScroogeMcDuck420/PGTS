@@ -7,4 +7,4 @@ https://prettygoodtokensniper.com
 # Twitter
 https://twitter.com/PrettyGoodToken
 # Telegram
-https://t.me/PGTSniper
+https://t.me/PrettyGoodTokenSniper
